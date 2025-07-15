@@ -22,3 +22,13 @@ A web-based application to classify **Mizo-language text** into five basic emoti
 - Pandas / NumPy
 - Altair (for visualization)
 - scikit-learn (via joblib model)
+
+## 📁 Project Structure
+
+├── Example App.py # Streamlit app
+├── mizotext.csv # Dataset used for training/testing
+├── Main.ipynb # Notebook with training workflow
+├── Mizo_emotion_classifier.pkl # Pre-trained model (required at runtime)
+
+## About
+This project was created by BT18CS023 as part of a final year project. It aims to promote natural language processing (NLP) research in underrepresented languages like Mizo.
