@@ -26,8 +26,11 @@ A web-based application to classify **Mizo-language text** into five basic emoti
 ## 📁 Project Structure
 
 ├── Example App.py # Streamlit app
+
 ├── mizotext.csv # Dataset used for training/testing
+
 ├── Main.ipynb # Notebook with training workflow
+
 ├── Mizo_emotion_classifier.pkl # Pre-trained model (required at runtime)
 
 ## About
