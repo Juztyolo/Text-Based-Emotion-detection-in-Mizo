@@ -31,4 +31,4 @@ A web-based application to classify **Mizo-language text** into five basic emoti
 ├── Mizo_emotion_classifier.pkl # Pre-trained model (required at runtime)
 
 ## About
-This project was created by BT18CS023 as part of a final year project. It aims to promote natural language processing (NLP) research in underrepresented languages like Mizo.
+This project was created by Zorinsanga as part of a final year project. It aims to promote natural language processing (NLP) research in underrepresented languages like Mizo.
