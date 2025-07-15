@@ -66,7 +66,7 @@ def main():
     elif choice == "About":
         st.subheader("About")
         st.write('This app was made so that users can test out the '
-                 'emotion classifier for mizo language made by BT18CSO23')
+                 'emotion classifier for mizo language made by Zorinsanga')
         st.write('This app can detect five emotion,they are '
                  'joy,sadness,anger,fear and neutral as well as show a probability chart of the text')
 
